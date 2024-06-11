@@ -1,4 +1,4 @@
-git+https://github.com/adityacheats/downloader@master
+yt_dlp
 pyrogram==1.4.16
 TgCrypto
 py-tgcalls
