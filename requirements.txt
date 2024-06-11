@@ -3,7 +3,7 @@ pyrogram==1.4.16
 TgCrypto
 py-tgcalls
 python-dotenv
-git+https://github.com/Kaal-xD/kaal-search-python@master
+git+https://github.com/Kaal-xD/kaal-search-python@main
 requests
 aiohttp
 aiofiles
