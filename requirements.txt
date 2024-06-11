@@ -8,7 +8,6 @@ requests
 aiohttp
 aiofiles
 asyncio
-git+https://github.com/mradityahalder/kaal_search@master
 search_engine_parser
 ffmpeg-python
 ffmpeg
